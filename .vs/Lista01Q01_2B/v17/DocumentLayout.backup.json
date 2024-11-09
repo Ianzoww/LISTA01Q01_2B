@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|c:\\users\\ian\\source\\repos\\lista01q01_2b\\lista01q01_2b\\services\\disciplinaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|solutionrelative:lista01q01_2b\\services\\disciplinaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|c:\\users\\ian\\source\\repos\\lista01q01_2b\\lista01q01_2b\\services\\notaalunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|solutionrelative:lista01q01_2b\\services\\notaalunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|c:\\users\\ian\\source\\repos\\lista01q01_2b\\lista01q01_2b\\repository\\notaalunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|solutionrelative:lista01q01_2b\\repository\\notaalunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|c:\\users\\ian\\source\\repos\\lista01q01_2b\\lista01q01_2b\\controllers\\disciplinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|solutionrelative:lista01q01_2b\\controllers\\disciplinacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|c:\\users\\ian\\source\\repos\\lista01q01_2b\\lista01q01_2b\\repository\\disciplinarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|solutionrelative:lista01q01_2b\\repository\\disciplinarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|c:\\users\\ian\\source\\repos\\lista01q01_2b\\lista01q01_2b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|solutionrelative:lista01q01_2b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|c:\\users\\ian\\source\\repos\\lista01q01_2b\\lista01q01_2b\\repository\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|solutionrelative:lista01q01_2b\\repository\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|c:\\users\\ian\\source\\repos\\lista01q01_2b\\lista01q01_2b\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|solutionrelative:lista01q01_2b\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|c:\\users\\ian\\source\\repos\\lista01q01_2b\\lista01q01_2b\\repository\\idisciplinarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|solutionrelative:lista01q01_2b\\repository\\idisciplinarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|c:\\users\\ian\\source\\repos\\lista01q01_2b\\lista01q01_2b\\controllers\\notaalunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|solutionrelative:lista01q01_2b\\controllers\\notaalunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|c:\\users\\ian\\source\\repos\\lista01q01_2b\\lista01q01_2b\\services\\inotaalunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|solutionrelative:lista01q01_2b\\services\\inotaalunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|c:\\users\\ian\\source\\repos\\lista01q01_2b\\lista01q01_2b\\services\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|solutionrelative:lista01q01_2b\\services\\ialunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|c:\\users\\ian\\source\\repos\\lista01q01_2b\\lista01q01_2b\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|solutionrelative:lista01q01_2b\\services\\alunoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|c:\\users\\ian\\source\\repos\\lista01q01_2b\\lista01q01_2b\\repository\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|solutionrelative:lista01q01_2b\\repository\\ialunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|c:\\users\\ian\\source\\repos\\lista01q01_2b\\lista01q01_2b\\repository\\inotaalunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|solutionrelative:lista01q01_2b\\repository\\inotaalunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|c:\\users\\ian\\source\\repos\\lista01q01_2b\\lista01q01_2b\\models\\notaaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|solutionrelative:lista01q01_2b\\models\\notaaluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|c:\\users\\ian\\source\\repos\\lista01q01_2b\\lista01q01_2b\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|solutionrelative:lista01q01_2b\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|c:\\users\\ian\\source\\repos\\lista01q01_2b\\lista01q01_2b\\models\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|solutionrelative:lista01q01_2b\\models\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|c:\\users\\ian\\source\\repos\\lista01q01_2b\\lista01q01_2b\\validation\\validarmaioridade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0AE5CCA-EDC9-4A45-8C24-ED059D60BA03}|Lista01Q01_2B\\Lista01Q01_2B.csproj|solutionrelative:lista01q01_2b\\validation\\validarmaioridade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "INotaAlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Repository\\INotaAlunoRepository.cs",
+              "RelativeDocumentMoniker": "Lista01Q01_2B\\Repository\\INotaAlunoRepository.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Repository\\INotaAlunoRepository.cs",
+              "RelativeToolTip": "Lista01Q01_2B\\Repository\\INotaAlunoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:55:27.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotaAlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Repository\\NotaAlunoRepository.cs",
+              "RelativeDocumentMoniker": "Lista01Q01_2B\\Repository\\NotaAlunoRepository.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Repository\\NotaAlunoRepository.cs",
+              "RelativeToolTip": "Lista01Q01_2B\\Repository\\NotaAlunoRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:51:57.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "INotaAlunoService.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Services\\INotaAlunoService.cs",
+              "RelativeDocumentMoniker": "Lista01Q01_2B\\Services\\INotaAlunoService.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Services\\INotaAlunoService.cs",
+              "RelativeToolTip": "Lista01Q01_2B\\Services\\INotaAlunoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:50:42.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotaAlunoService.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Services\\NotaAlunoService.cs",
+              "RelativeDocumentMoniker": "Lista01Q01_2B\\Services\\NotaAlunoService.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Services\\NotaAlunoService.cs",
+              "RelativeToolTip": "Lista01Q01_2B\\Services\\NotaAlunoService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:50:21.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NotaAlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Controllers\\NotaAlunoController.cs",
+              "RelativeDocumentMoniker": "Lista01Q01_2B\\Controllers\\NotaAlunoController.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Controllers\\NotaAlunoController.cs",
+              "RelativeToolTip": "Lista01Q01_2B\\Controllers\\NotaAlunoController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:49:20.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NotaAluno.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Models\\NotaAluno.cs",
+              "RelativeDocumentMoniker": "Lista01Q01_2B\\Models\\NotaAluno.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Models\\NotaAluno.cs",
+              "RelativeToolTip": "Lista01Q01_2B\\Models\\NotaAluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:16:59.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DisciplinaService.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Services\\DisciplinaService.cs",
+              "RelativeDocumentMoniker": "Lista01Q01_2B\\Services\\DisciplinaService.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Services\\DisciplinaService.cs",
+              "RelativeToolTip": "Lista01Q01_2B\\Services\\DisciplinaService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA6wBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:42:06.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDisciplinaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Repository\\IDisciplinaRepository.cs",
+              "RelativeDocumentMoniker": "Lista01Q01_2B\\Repository\\IDisciplinaRepository.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Repository\\IDisciplinaRepository.cs",
+              "RelativeToolTip": "Lista01Q01_2B\\Repository\\IDisciplinaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:30:39.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DisciplinaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Repository\\DisciplinaRepository.cs",
+              "RelativeDocumentMoniker": "Lista01Q01_2B\\Repository\\DisciplinaRepository.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Repository\\DisciplinaRepository.cs",
+              "RelativeToolTip": "Lista01Q01_2B\\Repository\\DisciplinaRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:30:22.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DisciplinaController.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Controllers\\DisciplinaController.cs",
+              "RelativeDocumentMoniker": "Lista01Q01_2B\\Controllers\\DisciplinaController.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Controllers\\DisciplinaController.cs",
+              "RelativeToolTip": "Lista01Q01_2B\\Controllers\\DisciplinaController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:27:58.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlunoController.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Controllers\\AlunoController.cs",
+              "RelativeDocumentMoniker": "Lista01Q01_2B\\Controllers\\AlunoController.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Controllers\\AlunoController.cs",
+              "RelativeToolTip": "Lista01Q01_2B\\Controllers\\AlunoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:24:44.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Disciplina.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Models\\Disciplina.cs",
+              "RelativeDocumentMoniker": "Lista01Q01_2B\\Models\\Disciplina.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Models\\Disciplina.cs",
+              "RelativeToolTip": "Lista01Q01_2B\\Models\\Disciplina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:22:47.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AlunoService.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Services\\AlunoService.cs",
+              "RelativeDocumentMoniker": "Lista01Q01_2B\\Services\\AlunoService.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Services\\AlunoService.cs",
+              "RelativeToolTip": "Lista01Q01_2B\\Services\\AlunoService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:03:33.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Repository\\IAlunoRepository.cs",
+              "RelativeDocumentMoniker": "Lista01Q01_2B\\Repository\\IAlunoRepository.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Repository\\IAlunoRepository.cs",
+              "RelativeToolTip": "Lista01Q01_2B\\Repository\\IAlunoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T00:23:19.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Repository\\AlunoRepository.cs",
+              "RelativeDocumentMoniker": "Lista01Q01_2B\\Repository\\AlunoRepository.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Repository\\AlunoRepository.cs",
+              "RelativeToolTip": "Lista01Q01_2B\\Repository\\AlunoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T00:20:12.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAlunoService.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Services\\IAlunoService.cs",
+              "RelativeDocumentMoniker": "Lista01Q01_2B\\Services\\IAlunoService.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Services\\IAlunoService.cs",
+              "RelativeToolTip": "Lista01Q01_2B\\Services\\IAlunoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:58:17.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Program.cs",
+              "RelativeDocumentMoniker": "Lista01Q01_2B\\Program.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Program.cs",
+              "RelativeToolTip": "Lista01Q01_2B\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:05:06.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ValidarMaiorIdade.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Validation\\ValidarMaiorIdade.cs",
+              "RelativeDocumentMoniker": "Lista01Q01_2B\\Validation\\ValidarMaiorIdade.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Validation\\ValidarMaiorIdade.cs",
+              "RelativeToolTip": "Lista01Q01_2B\\Validation\\ValidarMaiorIdade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T00:17:32.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "Lista01Q01_2B\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Ian\\source\\repos\\Lista01Q01_2B\\Lista01Q01_2B\\Models\\Aluno.cs",
+              "RelativeToolTip": "Lista01Q01_2B\\Models\\Aluno.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T00:10:27.007Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
